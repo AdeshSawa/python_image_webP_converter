@@ -2,7 +2,7 @@
 
 ### Requirements
 - python 3
-- [cWebP]([https://duckduckgo.com](https://developers.google.com/speed/webp/docs/using)) installed and available globaly 
+- [cWebP](https://developers.google.com/speed/webp/docs/using) installed and available globaly 
 
 ### How to use
 - create a folder named "input"
